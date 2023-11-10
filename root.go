@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/mattn/go-colorable"
-	"github.com/neatio-network/log15-go/term"
+	"github.com/neatio-net/log15-go/term"
 )
 
 var (
